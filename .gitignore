@@ -1,0 +1,5 @@
+# **/ matches files in all subdirectories
+**/pyenv_aoc
+**/*.swo
+**/*.swp
+**/*.swn
